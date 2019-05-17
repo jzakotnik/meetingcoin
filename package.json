@@ -1,0 +1,29 @@
+{
+  "name": "meetingcoin",
+  "version": "1.0.0",
+  "description": "Time is money - save it with meetingcoin",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.4.3",
+    "truffle": "^5.0.18"
+  },
+  "devDependencies": {
+    "openzeppelin-solidity": "^2.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzakotnik/meetingcoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzakotnik/meetingcoin/issues"
+  },
+  "homepage": "https://github.com/jzakotnik/meetingcoin#readme"
+}
